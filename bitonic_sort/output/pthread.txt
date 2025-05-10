@@ -1,0 +1,400 @@
+(<POWER_FOR_TWO>, <THREAD_NUM>)
+(10, 1)
+Total time = 0.000259 s
+Total threads used: 2
+ TEST PASSED
+
+(10, 2)
+Total time = 0.000192 s
+Total threads used: 2
+ TEST PASSED
+
+(10, 3)
+Total time = 0.000497 s
+Total threads used: 6
+ TEST PASSED
+
+(10, 4)
+Total time = 0.000786 s
+Total threads used: 14
+ TEST PASSED
+
+(11, 1)
+Total time = 0.000277 s
+Total threads used: 2
+ TEST PASSED
+
+(11, 2)
+Total time = 0.000280 s
+Total threads used: 2
+ TEST PASSED
+
+(11, 3)
+Total time = 0.000420 s
+Total threads used: 6
+ TEST PASSED
+
+(11, 4)
+Total time = 0.000768 s
+Total threads used: 14
+ TEST PASSED
+
+(12, 1)
+Total time = 0.000461 s
+Total threads used: 2
+ TEST PASSED
+
+(12, 2)
+Total time = 0.000463 s
+Total threads used: 2
+ TEST PASSED
+
+(12, 3)
+Total time = 0.000521 s
+Total threads used: 6
+ TEST PASSED
+
+(12, 4)
+Total time = 0.000846 s
+Total threads used: 14
+ TEST PASSED
+
+(13, 1)
+Total time = 0.000861 s
+Total threads used: 2
+ TEST PASSED
+
+(13, 2)
+Total time = 0.000847 s
+Total threads used: 2
+ TEST PASSED
+
+(13, 3)
+Total time = 0.000742 s
+Total threads used: 6
+ TEST PASSED
+
+(13, 4)
+Total time = 0.001011 s
+Total threads used: 14
+ TEST PASSED
+
+(14, 1)
+Total time = 0.001667 s
+Total threads used: 2
+ TEST PASSED
+
+(14, 2)
+Total time = 0.001638 s
+Total threads used: 2
+ TEST PASSED
+
+(14, 3)
+Total time = 0.001227 s
+Total threads used: 6
+ TEST PASSED
+
+(14, 4)
+Total time = 0.001178 s
+Total threads used: 14
+ TEST PASSED
+
+(15, 1)
+Total time = 0.003153 s
+Total threads used: 2
+ TEST PASSED
+
+(15, 2)
+Total time = 0.003015 s
+Total threads used: 2
+ TEST PASSED
+
+(15, 3)
+Total time = 0.002031 s
+Total threads used: 6
+ TEST PASSED
+
+(15, 4)
+Total time = 0.001836 s
+Total threads used: 14
+ TEST PASSED
+
+(16, 1)
+Total time = 0.005898 s
+Total threads used: 2
+ TEST PASSED
+
+(16, 2)
+Total time = 0.006958 s
+Total threads used: 2
+ TEST PASSED
+
+(16, 3)
+Total time = 0.003509 s
+Total threads used: 6
+ TEST PASSED
+
+(16, 4)
+Total time = 0.003155 s
+Total threads used: 14
+ TEST PASSED
+
+(17, 1)
+Total time = 0.013188 s
+Total threads used: 2
+ TEST PASSED
+
+(17, 2)
+Total time = 0.013194 s
+Total threads used: 2
+ TEST PASSED
+
+(17, 3)
+Total time = 0.009152 s
+Total threads used: 6
+ TEST PASSED
+
+(17, 4)
+Total time = 0.006028 s
+Total threads used: 14
+ TEST PASSED
+
+(18, 1)
+Total time = 0.023057 s
+Total threads used: 2
+ TEST PASSED
+
+(18, 2)
+Total time = 0.026291 s
+Total threads used: 2
+ TEST PASSED
+
+(18, 3)
+Total time = 0.015424 s
+Total threads used: 6
+ TEST PASSED
+
+(18, 4)
+Total time = 0.011748 s
+Total threads used: 14
+ TEST PASSED
+
+(19, 1)
+Total time = 0.050473 s
+Total threads used: 2
+ TEST PASSED
+
+(19, 2)
+Total time = 0.047539 s
+Total threads used: 2
+ TEST PASSED
+
+(19, 3)
+Total time = 0.034962 s
+Total threads used: 6
+ TEST PASSED
+
+(19, 4)
+Total time = 0.023009 s
+Total threads used: 14
+ TEST PASSED
+
+(20, 1)
+Total time = 0.102066 s
+Total threads used: 2
+ TEST PASSED
+
+(20, 2)
+Total time = 0.097972 s
+Total threads used: 2
+ TEST PASSED
+
+(20, 3)
+Total time = 0.067390 s
+Total threads used: 6
+ TEST PASSED
+
+(20, 4)
+Total time = 0.044888 s
+Total threads used: 14
+ TEST PASSED
+
+(21, 1)
+Total time = 0.191435 s
+Total threads used: 2
+ TEST PASSED
+
+(21, 2)
+Total time = 0.189873 s
+Total threads used: 2
+ TEST PASSED
+
+(21, 3)
+Total time = 0.128644 s
+Total threads used: 6
+ TEST PASSED
+
+(21, 4)
+Total time = 0.089505 s
+Total threads used: 14
+ TEST PASSED
+
+(22, 1)
+Total time = 0.397797 s
+Total threads used: 2
+ TEST PASSED
+
+(22, 2)
+Total time = 0.405827 s
+Total threads used: 2
+ TEST PASSED
+
+(22, 3)
+Total time = 0.243661 s
+Total threads used: 6
+ TEST PASSED
+
+(22, 4)
+Total time = 0.166167 s
+Total threads used: 14
+ TEST PASSED
+
+(23, 1)
+Total time = 0.827171 s
+Total threads used: 2
+ TEST PASSED
+
+(23, 2)
+Total time = 0.833515 s
+Total threads used: 2
+ TEST PASSED
+
+(23, 3)
+Total time = 0.506810 s
+Total threads used: 5
+ TEST PASSED
+
+(23, 4)
+Total time = 0.328478 s
+Total threads used: 14
+ TEST PASSED
+
+(24, 1)
+Total time = 1.713949 s
+Total threads used: 2
+ TEST PASSED
+
+(24, 2)
+Total time = 1.708109 s
+Total threads used: 2
+ TEST PASSED
+
+(24, 3)
+Total time = 1.036240 s
+Total threads used: 6
+ TEST PASSED
+
+(24, 4)
+Total time = 0.657142 s
+Total threads used: 13
+ TEST PASSED
+
+(25, 1)
+Total time = 3.557378 s
+Total threads used: 2
+ TEST PASSED
+
+(25, 2)
+Total time = 3.582479 s
+Total threads used: 2
+ TEST PASSED
+
+(25, 3)
+Total time = 2.121831 s
+Total threads used: 6
+ TEST PASSED
+
+(25, 4)
+Total time = 1.330788 s
+Total threads used: 14
+ TEST PASSED
+
+(26, 1)
+Total time = 7.388722 s
+Total threads used: 2
+ TEST PASSED
+
+(26, 2)
+Total time = 7.382804 s
+Total threads used: 2
+ TEST PASSED
+
+(26, 3)
+Total time = 4.381958 s
+Total threads used: 6
+ TEST PASSED
+
+(26, 4)
+Total time = 2.732423 s
+Total threads used: 14
+ TEST PASSED
+
+(27, 1)
+Total time = 15.338208 s
+Total threads used: 2
+ TEST PASSED
+
+(27, 2)
+Total time = 15.373633 s
+Total threads used: 2
+ TEST PASSED
+
+(27, 3)
+Total time = 9.053770 s
+Total threads used: 6
+ TEST PASSED
+
+(27, 4)
+Total time = 5.613484 s
+Total threads used: 14
+ TEST PASSED
+
+(28, 1)
+Total time = 31.738642 s
+Total threads used: 2
+ TEST PASSED
+
+(28, 2)
+Total time = 31.801798 s
+Total threads used: 2
+ TEST PASSED
+
+(28, 3)
+Total time = 18.909117 s
+Total threads used: 6
+ TEST PASSED
+
+(28, 4)
+Total time = 11.514041 s
+Total threads used: 14
+ TEST PASSED
+
+(29, 1)
+Total time = 65.595287 s
+Total threads used: 2
+ TEST PASSED
+
+(29, 2)
+Total time = 65.626321 s
+Total threads used: 2
+ TEST PASSED
+
+(29, 3)
+Total time = 38.822989 s
+Total threads used: 6
+ TEST PASSED
+
+(29, 4)
+Total time = 23.826661 s
+Total threads used: 14
+ TEST PASSED

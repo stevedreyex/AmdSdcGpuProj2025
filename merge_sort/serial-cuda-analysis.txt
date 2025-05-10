@@ -1,0 +1,47 @@
+ELEMENT_NUM = 65536
+Serial Time taken: 0.040978
+Cuda Time taken: 0.005337
+
+ELEMENT_NUM = 131072
+Serial Time taken: 0.083392
+Cuda Time taken: 0.010459
+
+ELEMENT_NUM = 262144
+Serial Time taken: 0.169516
+Cuda Time taken: 0.020577
+
+ELEMENT_NUM = 524288
+Serial Time taken: 0.348963
+Cuda Time taken: 0.041105
+
+ELEMENT_NUM = 1048576
+Serial Time taken: 0.732709
+Cuda Time taken: 0.079784
+
+ELEMENT_NUM = 2097152
+Serial Time taken: 1.51577
+Cuda Time taken: 0.16291
+
+ELEMENT_NUM = 4194304
+Serial Time taken: 3.06257
+Cuda Time taken: 0.330404
+
+ELEMENT_NUM = 8388608
+Serial Time taken: 6.32047
+Cuda Time taken: 0.649631
+
+ELEMENT_NUM = 16777216
+Serial Time taken: 13.0034
+Cuda Time taken: 1.29293
+
+ELEMENT_NUM = 33554432
+Serial Time taken: 26.5682
+Cuda Time taken: 2.57745
+
+ELEMENT_NUM = 67108864
+Serial Time taken: 54.7744
+Cuda Time taken: 5.16046
+
+ELEMENT_NUM = 134217728
+Serial Time taken: 111.633
+Cuda Time taken: 10.2675

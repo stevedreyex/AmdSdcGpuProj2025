@@ -1,0 +1,81 @@
+
+(num of element: 2^10)
+GPU Time: 0.0928 ms
+CPU Time: 0.127 ms
+
+(num of element: 2^11)
+GPU Time: 0.108544 ms
+CPU Time: 0.276 ms
+
+(num of element: 2^12)
+GPU Time: 0.126976 ms
+CPU Time: 0.613 ms
+
+(num of element: 2^13)
+GPU Time: 0.147456 ms
+CPU Time: 1.236 ms
+
+(num of element: 2^14)
+GPU Time: 0.169632 ms
+CPU Time: 2.76 ms
+
+(num of element: 2^15)
+GPU Time: 0.192064 ms
+CPU Time: 5.674 ms
+
+(num of element: 2^16)
+GPU Time: 0.211264 ms
+CPU Time: 12.804 ms
+
+(num of element: 2^17)
+GPU Time: 0.244704 ms
+CPU Time: 28.19 ms
+
+(num of element: 2^18)
+GPU Time: 0.342944 ms
+CPU Time: 60.004 ms
+
+(num of element: 2^19)
+GPU Time: 0.511904 ms
+CPU Time: 130.747 ms
+
+(num of element: 2^20)
+GPU Time: 0.839712 ms
+CPU Time: 299.761 ms
+
+(num of element: 2^21)
+GPU Time: 1.51162 ms
+CPU Time: 595.151 ms
+
+(num of element: 2^22)
+GPU Time: 2.92352 ms
+CPU Time: 1265.44 ms
+
+(num of element: 2^23)
+GPU Time: 5.9473 ms
+CPU Time: 2693.2 ms
+
+(num of element: 2^24)
+GPU Time: 12.7825 ms
+CPU Time: 5742.7 ms
+
+(num of element: 2^25)
+GPU Time: 62.8782 ms
+CPU Time: 12278.5 ms
+
+(num of element: 2^26)
+GPU Time: 133.967 ms
+CPU Time: 25993.6 ms
+
+(num of element: 2^27)
+GPU Time: 284.792 ms
+CPU Time: 55022.3 ms
+
+(num of element: 2^28)
+GPU Time: 606.112 ms
+CPU Time: 116949 ms
+
+(num of element: 2^29)
+GPU Time: 1287.37 ms
+CPU Time: 245618 ms
+
